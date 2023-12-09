@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "prompt-sync": "^4.2.0",
+    "puppeteer": "^21.6.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  },
+  "type": "module"
+}
